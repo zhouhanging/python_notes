@@ -1,3 +1,3 @@
-# pygame_Super_Mary
-### pygame复现超级玛丽🦸，面向对象
+# python_notes
+### python，学习笔记🦸
 
